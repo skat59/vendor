@@ -1,5 +1,5 @@
 {
-    "name": "skat",
+    "name": "skat/site",
     "type": "library",
     "description": "Classes autoload skat",
     "authors": [
