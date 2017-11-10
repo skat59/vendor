@@ -1,0 +1,30 @@
+{
+    "name": "skat",
+    "type": "library",
+    "description": "Classes autoload skat",
+    "authors": [
+        {
+            "name": "ProjectSoft",
+            "email": "projectsoft2009@yandex.ru"
+        }
+    ],
+    "require": {
+		"php": ">=5.6.0",
+		"ext-ctype": "*"
+    },
+    "require-dev": {
+		
+    },
+    "suggest": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "PSPlugin": "src/"
+        }
+    },
+    "autoload-dev": {
+        
+    },
+    "license": "LGPL-2.1"
+}
